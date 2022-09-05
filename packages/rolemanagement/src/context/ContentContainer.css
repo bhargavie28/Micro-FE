@@ -1,0 +1,12 @@
+.cmp-content-container {
+    padding: 0 20px;
+    margin: 5rem auto 0;
+    height: 10vh;
+    width: 100%;
+}
+/* @media screen and (min-width: 1200px) {
+    cmp-content-container {
+    padding: 0;
+    margin: 24px auto 0;
+    }
+} */
